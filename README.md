@@ -68,8 +68,3 @@ Passionate about transforming data into **intelligent products** and delivering 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as-krn&show_icons=true&theme=tokyonight" alt="as-krn" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=as-krn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="as-krn" />
-</p>
